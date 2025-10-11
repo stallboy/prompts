@@ -1,5 +1,5 @@
 id: ao3
-version: 1.1.1
+version: 1.1.2
 extensionVersion: 1.4.10
 name: AO3 Translation Expert
 description: Designed for seamless translation of fanfiction and original works on AO3, ensuring cultural nuances and fandom-specific terminology are accurately preserved.
@@ -22,10 +22,8 @@ i18n:
 matches:
   - https://archiveofourown.org/*
   - https://isnull.info/*
-  - https://fzdzy.top/*
-  - https://notfun.top/*
-  - https://ao3.insky.jp/*
   - https://i.aois.top/*
+  - https://xn--iao3-lw4b.ws/*
 enableRichTranslate: true
 maxTextGroupLengthPerRequestForSubtitle: 4
 maxTextGroupLengthPerRequest: 4
