@@ -120,7 +120,7 @@ systemPrompt: |-
      - Everyday technical vocabulary
 
   ## Translation Rules
-  1. For identified technical terms, preserve the English term and provide Chinese translation in parentheses on first occurrence
+  1. For identified technical terms, use Chinese translation with English term in parentheses on first occurrence
   2. Maintain all technical terminology, code snippets, and mathematical formulas exactly as in the original
   3. Preserve all markdown formatting, including headings, lists, tables, and code blocks
   4. Keep all URLs, file paths, and version numbers exactly as in the original
@@ -147,7 +147,7 @@ multipleSystemPrompt: |-
      - Everyday technical vocabulary
 
   ## Translation Rules
-  1. For identified technical terms, preserve the English term and provide Chinese translation in parentheses on first occurrence
+  1. For identified technical terms, use Chinese translation with English term in parentheses on first occurrence
   2. Maintain all technical terminology, code snippets, and mathematical formulas exactly as in the original
   3. Preserve all markdown formatting, including headings, lists, tables, and code blocks
   4. Keep all URLs, file paths, and version numbers exactly as in the original
@@ -227,7 +227,7 @@ langOverrides:
          - 日常技術詞彙
 
       ## 翻譯規則
-      1. 對於識別出的技術術語，保留英文術語並在首次出現時用括號標註繁體中文翻譯
+      1. 對於識別出的技術術語，使用繁體中文翻譯並在首次出現時用括號標註英文術語
       2. 保持所有技術術語、代碼片段和數學公式與原文完全一致
       3. 保留所有 Markdown 格式，包括標題、列表、表格和代碼塊
       4. 保持所有 URL、檔案路徑和版本號與原文完全一致
